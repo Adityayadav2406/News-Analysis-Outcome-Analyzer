@@ -3,10 +3,6 @@
 ## 📌 Project Overview
 This project focuses on the automated analysis of news data using AI and Machine Learning. The goal is to process vast amounts of news information to identify patterns, sentiment, and provide an "Outcome Analyzer" that predicts the impact of specific news trends.
 
-## 👥 Team Members
-* **Likesh Kumar Sahu** (Roll No: 301310923085)
-* **Mayank Singh** (Roll No: 301310923088)
-* **Abhinav Kumar** (Roll No: 301310923002)
 * **Aditya Yadav** (Roll No: 301310923017)
 
 [cite_start]**Institution:** Rungta College of Engineering & Technology, Bhilai [cite: 8]
